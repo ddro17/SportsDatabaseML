@@ -46,6 +46,6 @@ tests/      test_team_balancer.py
 
 ## Contributors and project origin
 
-This project was developed jointly by [Leandro Martinez (@lpmhub17)](https://github.com/lpmhub17) and [@KeMeNoToRiKo](https://github.com/KeMeNoToRiKo). Both contributors worked together across the full project, including data preparation, clustering, application development, testing, and documentation.
+This project was developed jointly by [@ddro17](https://github.com/ddro17) and [@KeMeNoToRiKo](https://github.com/KeMeNoToRiKo). Both contributors worked together across the full project, including data preparation, clustering, application development, testing, and documentation.
 
-The project was initially uploaded through @KeMeNoToRiKo's account at [KeMeNoToRiKo/SportsDatabaseML](https://github.com/KeMeNoToRiKo/SportsDatabaseML). This repository is Leandro Martinez's copy of the shared Group 24 project, with the original commit history preserved.
+The project was initially uploaded through @KeMeNoToRiKo's account at [KeMeNoToRiKo/SportsDatabaseML](https://github.com/KeMeNoToRiKo/SportsDatabaseML). This repository is @ddro17's copy of the shared Group 24 project, with the original commit history preserved.

@@ -43,3 +43,9 @@ tests/      test_team_balancer.py
 - **k = 4** (silhouette peak and elbow): Core all-rounders (12), Perimeter playmakers (16), Interior anchors (14), Developing players with limited availability (18).
 - **K-Means vs hierarchical (average linkage):** silhouette 0.385 vs 0.382. They agree on 59 of 60 players (ARI 0.958).
 - **4 teams of 15:** the gap between the strongest and weakest team's average skill is 0.02 points, compared with 0.67 for random teams.
+
+## Contributors and project origin
+
+This project was developed jointly by [Leandro Martinez (@lpmhub17)](https://github.com/lpmhub17) and [@KeMeNoToRiKo](https://github.com/KeMeNoToRiKo). Both contributors worked together across the full project, including data preparation, clustering, application development, testing, and documentation.
+
+The project was initially uploaded through @KeMeNoToRiKo's account at [KeMeNoToRiKo/SportsDatabaseML](https://github.com/KeMeNoToRiKo/SportsDatabaseML). This repository is Leandro Martinez's copy of the shared Group 24 project, with the original commit history preserved.
